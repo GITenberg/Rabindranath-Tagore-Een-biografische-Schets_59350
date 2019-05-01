@@ -1,5 +1,5 @@
 _repo: Rabindranath-Tagore-Een-biografische-Schets_59350
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   contributors:
   - agent_name: VII, Mangkunegoro
@@ -24,12 +24,17 @@ contributor:
     wikipedia:
     - https://en.wikipedia.org/wiki/Frederik_van_Eeden
     - https://nl.wikipedia.org/wiki/Frederik_van_Eeden_(schrijver)
+covers:
+- cover_type: archival
+  image_path: 59350-h/images/new-cover.jpg
 creator:
   author:
     agent_name: Soeroto, Raden Mas Noto
     gutenberg_agent_id: '50410'
     url: http://www.gutenberg.org/2009/agents/50410
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/59350#Rabindranath-Tagore-Een-biografische-Schets
 gutenberg_issued: '2019-04-25'
 gutenberg_type: Text
 identifiers:
