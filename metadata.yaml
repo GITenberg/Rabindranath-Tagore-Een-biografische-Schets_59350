@@ -1,0 +1,46 @@
+_repo: Rabindranath-Tagore-Een-biografische-Schets_59350
+_version: 0.0.1
+contributor:
+  contributors:
+  - agent_name: VII, Mangkunegoro
+    gutenberg_agent_id: '50411'
+    url: http://www.gutenberg.org/2009/agents/50411
+  - agent_name: Tagore, Rabindranath
+    birthdate: 1861
+    deathdate: 1941
+    gutenberg_agent_id: '942'
+    url: http://www.gutenberg.org/2009/agents/942
+    wikipedia: http://en.wikipedia.org/wiki/Rabindranath_Tagore
+  - agent_name: Eeden, Frederik van
+    aliases:
+    - Eeden, Frederick van
+    - Van Eeden, Frederik
+    - Paradijs, Cornelis
+    - Eeden, Frederik Willem van
+    birthdate: 1860
+    deathdate: 1932
+    gutenberg_agent_id: '2981'
+    url: http://www.gutenberg.org/2009/agents/2981
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Frederik_van_Eeden
+    - https://nl.wikipedia.org/wiki/Frederik_van_Eeden_(schrijver)
+creator:
+  author:
+    agent_name: Soeroto, Raden Mas Noto
+    gutenberg_agent_id: '50410'
+    url: http://www.gutenberg.org/2009/agents/50410
+description: ''
+gutenberg_issued: '2019-04-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '59350'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Rabindranath Tagore
+
+  Een biografische Schets'
+url: http://www.gutenberg.org/ebooks/59350
